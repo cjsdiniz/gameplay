@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>NWL Together!</Text>
+      <Text>NWL Together!!!</Text>
       <StatusBar style="auto" />
     </View>
   );
